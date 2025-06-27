@@ -4,6 +4,12 @@ This project is a serverless, automated weather monitoring and visualization sys
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://lookerstudio.google.com/embed/u/0/reporting/c1d5a902-3fc0-4ff4-b123-b48f60afb67c/page/y6WPF
+
+---
+
 ## 🚀 Features
 
 - Fetches weather data from OpenWeatherMap for multiple cities
@@ -126,11 +132,5 @@ gcloud functions deploy fetch_weather \
 * In Looker Studio:
   * Click `Share > Schedule email delivery`
   * Set up daily/weekly report to your email
-
----
-
-## 🌐 Live Demo
-
-> https://lookerstudio.google.com/embed/u/0/reporting/c1d5a902-3fc0-4ff4-b123-b48f60afb67c/page/y6WPF
 
 ---
